@@ -1,6 +1,11 @@
 # Intro
 
-I'm Kunal Srivastava, a passionate Informatics and Data Science student at the University of Washington. I've interned at Microsoft (2x), Skan.ai, and Google, contributing to full-stack, machine learning, and automation projects. As a Founding Engineer at Otto, I helped raise $2 million to create a mobile pet-care interface. I co-founded the winner of the Lavin Entrepreneurship Startup Studio, Terra, simplifying online meetings. My research explores ethical AI, addressing racial bias in Convolutional Neural Networks. I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I'm Kunal Srivastava, a entrepreneur with a knack for data-intensive problem-solving. I think it started in middle school, when I figured out how to change my laptop's MAC address to bypass my parents' internet restrictions on Minecraft 😄.  
+
+---
+
+Fast forward to today, I’ve honed my skills through internships at high-impact companies like Palantir, Microsoft, Skan.ai, and Google, where I solved problems ranging from optimizing serverless architectures to improving accessibility features for millions of users. Each experience has reinforced my belief that the best technology is the kind that empowers users to achieve more with less friction.
+
 
 # Some history
 
@@ -34,22 +39,14 @@ I'm Kunal Srivastava, a passionate Informatics and Data Science student at the U
 
 - At 20, I founded Terra and Varro. Terra simplified Zoom meetings for neurdivergent individuals with a simple UI, winning the Lavin Entrepreneurship Competition. Varro was a fact-based research search engine, placing runner-up at the UW DubHacks Hackathon. 
 
+- At 21, I interned at Palantir. This is probably the turning point of my early career - where I realized that I had the skill, potential, and grit to drive immense impact across many use cases. Now, I'm confident I can build anything...
+
 Ask me in person for other stories that I'm afraid to share with the internet.
 
-# Travel / Geography
-
-- I grew up in Hillsborough, California. I have since lived in Palo Alto and Seattle.
-- I've been all across the world, to approximately 35 countries.
-- In North America, I've visited Canada, Costa Rica, the Dominican Republic, Mexico, and the US.
-- In South America, I've visited Brazil, Argentina, Ecuador, and the Galapagos.
-- Around Australia, I've visited New Zealand, Tahiti, and Australia.
-- In Europe, I've visited Austria, Belgium, Croatia, France, Germany, Greece, Norway, Portugal, Spain, Turkey, and the United Kingdom.
-- In Asia, I've visited Cambodia, China, India, Israel, Japan, Thailand, Vietnam, and the UAE.
-- In Africa, I've visited South Africa
 
 # I love
 
-- Great food
+- Great meals
 - Golf
 - Jetskis and water
 - Space
@@ -62,10 +59,10 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Fun facts
 
-- I keep an encrypted list of my best current entrepreneurship ideas. I'm always looking to build something awesome. 
+- I keep a product list of what to cook next. 
 - Figured out how to bot registration for my undergraduate courses. Unfortunately, this is not allowed. 
 - Now, tennis and golf are my safe places where I go to cool off and reset my mind. 
-- I love to invest. I have a thesis-based investment strategy that highly depends on updating my industry knowledge daily.
+- I love to invest. I have a thesis-based investment strategy that highly depends on updating my tech industry knowledge daily.
 
 # I dream of
 
